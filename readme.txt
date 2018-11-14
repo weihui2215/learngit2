@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 add new line.add new line too.
 新增加一行。又增加了一行。
+增加了远程的仓库。
